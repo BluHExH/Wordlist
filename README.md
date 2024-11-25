@@ -1,9 +1,18 @@
 # Wordlist
 Olny for education perpos
 
+git clone https://github.com/BluHExH/Wordlist.git
 
-https://github.com/BluHExH/Wordlist.git
+
+
 
 cd
+
+
+
+
 ls
-python password_master.py
+
+
+
+pythone password_master.py
