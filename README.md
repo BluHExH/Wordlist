@@ -6,7 +6,7 @@ git clone https://github.com/BluHExH/Wordlist.git
 
 
 
-cd
+cd wordlist
 
 
 
@@ -15,4 +15,4 @@ ls
 
 
 
-pythone password_master.py
+python password_master.py
